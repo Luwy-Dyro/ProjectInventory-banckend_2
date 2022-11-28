@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.luwypack.inventory</groupId>
-	<artifactId>ProjectInventory</artifactId>
+	<artifactId>inventory</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ProjectInventory</name>
+	<name>inventory</name>
 	<description>Project for Inventory control</description>
 	<properties>
-			<java.version>8</java.version>
+			<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -64,7 +64,6 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.2.2</version>
 		</dependency>
-		
 
 	</dependencies>
 	<build>
