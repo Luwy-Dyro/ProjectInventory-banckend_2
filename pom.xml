@@ -14,7 +14,7 @@
 	<name>inventory</name>
 	<description>Project for Inventory control</description>
 	<properties>
-		<java.version>15</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
