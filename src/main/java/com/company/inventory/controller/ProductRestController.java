@@ -24,7 +24,8 @@ import com.company.inventory.util.CategoryExcelExporter;
 import com.company.inventory.util.ProductExcelExporter;
 import com.company.inventory.util.Util;
 
-@CrossOrigin(origins = {"http://localhost:4200"})
+@CrossOrigin(origins = {"https://projectwebinventory.azurewebsites.net"})
+//@CrossOrigin(origins = {"http://localhost:4200"})
 @RestController
 @RequestMapping("/api/v1")
 public class ProductRestController {
